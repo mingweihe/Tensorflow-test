@@ -1,1 +1,1 @@
-# Tensorflow library research and practice by reading the book Tensorflow Dummies.
+# Tensorflow library test according to "Tensorflow Dummies".
